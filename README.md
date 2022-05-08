@@ -71,4 +71,4 @@ Results
 ---
 The Traffic Light Detection Model used is described in [REFLECTION.md](REFLECTION.md).
 
-[Youtube video](https://youtu.be/HYewiiKAOAI)
+[Youtube video](https://youtu.be/ANZLVwaPGfw)
